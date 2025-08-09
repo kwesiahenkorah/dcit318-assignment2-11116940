@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.exe
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.deps.json
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.runtimeconfig.json
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.dll
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.pdb
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.sourcelink.json
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.dll
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\obj\Debug\net8.0\refint\InheritanceDemo.dll
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.pdb
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\InheritanceDemo\obj\Debug\net8.0\ref\InheritanceDemo.dll

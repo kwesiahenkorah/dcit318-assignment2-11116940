@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\bin\Debug\net8.0\AbstractDemo.exe
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\bin\Debug\net8.0\AbstractDemo.deps.json
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\bin\Debug\net8.0\AbstractDemo.runtimeconfig.json
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\bin\Debug\net8.0\AbstractDemo.dll
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\bin\Debug\net8.0\AbstractDemo.pdb
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\obj\Debug\net8.0\AbstractDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\obj\Debug\net8.0\AbstractDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\obj\Debug\net8.0\AbstractDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\obj\Debug\net8.0\AbstractDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\obj\Debug\net8.0\AbstractDemo.sourcelink.json
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\obj\Debug\net8.0\AbstractDemo.dll
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\obj\Debug\net8.0\refint\AbstractDemo.dll
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\obj\Debug\net8.0\AbstractDemo.pdb
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\obj\Debug\net8.0\AbstractDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\dcit318-assignment2-11117540\AbstractDemo\obj\Debug\net8.0\ref\AbstractDemo.dll
